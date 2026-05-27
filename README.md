@@ -35,7 +35,8 @@ This project predicts whether a tumor is **Benign** or **Malignant** using Machi
 
 # 📂 Certificate File
 
-[ybi_AI.pdf](https://github.com/user-attachments/files/28308165/ybi_AI.pdf)
+<img width="969" height="691" alt="Screenshot 2026-05-27 180642" src="https://github.com/user-attachments/assets/8a1844e6-e72d-4d5a-b9c6-ebfe843055a2" />
+
 
 ---
 
